@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Jessica
-- 👀 I’m interested in sleeping
-- 🌱 I’m currently learning defeat AI
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in exploring latest tech tools
+- 🌱 I’m currently learning AI implementation and deployment
+- 💞️ I’m looking to collaborate on AI implementation
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/her/her
+- ⚡ Fun fact: I have a cute cat
 
 <!---
 JessicaSunQI/JessicaSunQI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
